@@ -1,0 +1,19 @@
+.navlist{
+    color:white;
+}
+
+.my-button {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    cursor: pointer;
+    border: none;
+    border-radius: 100px;
+    outline: none;
+    text-align: center;
+}
+
+
+.card-header{
+    text-align: center;
+}
